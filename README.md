@@ -1,4 +1,4 @@
-# task-watcher
+# Task-Watcher
 
 ## Project setup
 ```
@@ -7,7 +7,12 @@ pnpm install
 
 ### Compiles and hot-reloads for development
 ```
-pnpm run serve
+pnpm serve
+```
+
+### Run fake REST API for the data
+```
+pnpm backend
 ```
 
 ### Compiles and minifies for production
