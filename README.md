@@ -1,4 +1,7 @@
 # Task-Watcher
+App for tracking your plan task, just insert task, day and time, and set reminder of your plan task.
+
+![view of Task-Watcher app](https://i.imgur.com/lGTxGx6.png)
 
 ## Project setup
 ```
