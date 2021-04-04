@@ -1,7 +1,9 @@
 # Task-Watcher
 App for tracking your plan task, just insert task, day and time, and set reminder of your plan task.
 
-![view of Task-Watcher app](https://i.imgur.com/lGTxGx6.png)
+![view of Task-Watcher app](task-watcher-view.png)
+
+Build with Tailwindcss 2 + Vuejs 3
 
 ## Project setup
 ```
